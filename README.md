@@ -4,7 +4,7 @@ thank to Sucresware i basically edited his code to make it launch a start up (ht
 please donate to VB-Audio if you use VoiceMeeter on a daily basis
 
 
-steps
+steps<br>
 -install voice meeter potato <br>
 -remove voice meeter from booting at start up if enabled<br>
 -Put the .exe in voice meeter's installation folder and then execute the .exe<br>
